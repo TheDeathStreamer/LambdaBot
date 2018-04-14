@@ -1,2 +1,2 @@
 # LambdaBot
-For my website
+Welcome
